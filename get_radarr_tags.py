@@ -1,5 +1,4 @@
 import requests
-import re
 
 # Define all the variables used throughout the script that require user input
 
